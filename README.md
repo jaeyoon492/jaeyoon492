@@ -1,4 +1,4 @@
-### 안녕하세요. FREN 이라고 합니다! 😀
+### 안녕하세요. 명재윤 이라고 합니다! 😀
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKjaeyoon492)](https://hits.seeyoufarm.com) 
 
